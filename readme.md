@@ -2,7 +2,7 @@
 
 🐣 PiyoPiyo Developer in Japan!
 
-💻 Leaning programming at a RUNTEQ.
+💻 Leaning programming at RUNTEQ!!
 
 ## Contact
 <a href="https://x.com/mogu_57B/">
