@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,rails,nodejs,react,nextjs,tailwind)](https://skillicons.dev)
 
 ### Tools, Others..
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,pnpm,vite,docker,github,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,pnpm,vite,firebase,docker,github,notion)](https://skillicons.dev)
 
 ## My Status
 <p>
