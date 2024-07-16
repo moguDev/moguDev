@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,swift,dart,ruby,js,ts)](https://skillicons.dev)
 
 ### Libraries & Frameworks...
-[![My Skills](https://skillicons.dev/icons?i=flutter,rails,nodejs,react,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,rails,nodejs,react,nextjs,tailwind,vite)](https://skillicons.dev)
 
 ### Tools, Others..
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,pnpm,docker,github,notion)](https://skillicons.dev)
