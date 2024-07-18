@@ -21,6 +21,6 @@
 
 ## My Status
 <p>
-  <img alt="" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moguDev&layout=compact&langs_count=8&theme=tokyonight">
-  <img alt="stats" height="200px" src="https://streak-stats.demolab.com/?user=moguDev&theme=tokyonight">
+  <img alt="github_stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moguDev&layout=compact&langs_count=8&theme=tokyonight">
+  <img alt="streak_stats" height="200px" src="https://streak-stats.demolab.com/?user=moguDev&theme=tokyonight">
 </p>
