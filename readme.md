@@ -4,11 +4,6 @@
 
 💻 Learning programming at RUNTEQ!!
 
-## Contact
-<a href="https://x.com/mogu_57B/">
-  <img alt="contact_x" src="https://skillicons.dev/icons?i=twitter">
-</a>
-
 ## My Skills
 ### Languages...
 [![My Skills](https://skillicons.dev/icons?i=java,swift,dart,ruby,js,ts)](https://skillicons.dev)
