@@ -6,13 +6,13 @@
 
 ## My Skills
 ### Languages...
-[![My Skills](https://skillicons.dev/icons?i=java,swift,dart,ruby,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,dart,ruby,ts)](https://skillicons.dev)
 
 ### Libraries & Frameworks...
-[![My Skills](https://skillicons.dev/icons?i=flutter,rails,nodejs,react,nextjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,rails,react,nextjs,tailwind)](https://skillicons.dev)
 
 ### Tools, Others..
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,pnpm,vite,firebase,docker,github,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,pnpm,firebase,docker,github)](https://skillicons.dev)
 
 ## My Status
 <p>
