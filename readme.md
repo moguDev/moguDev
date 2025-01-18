@@ -1,9 +1,3 @@
-# I'm Sho HORIGUCHI!
-
-🐣 PiyoPiyo Developer in Japan!
-
-💻 Learning programming at RUNTEQ!!
-
 ## My Skills
 ### Languages...
 [![My Skills](https://skillicons.dev/icons?i=java,swift,ts,ruby)](https://skillicons.dev)
